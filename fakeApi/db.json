@@ -1,0 +1,34 @@
+{
+  "decks": [
+    {
+      "id": 1,
+      "name": "Javascript",
+      "cards": 42,
+      "category": "Programming Languages",
+      "rating": 0,
+      "author": "Janusz Kowalski",
+      "description": "Some desc",
+      "thumbnail": "file.jpg"
+    },
+    {
+      "id": 2,
+      "name": "HTML",
+      "cards": 15,
+      "category": "Markup",
+      "rating": 0,
+      "author": "Janusz Kowalski",
+      "description": "Some desc",
+      "thumbnail": "file.jpg"
+    },
+    {
+      "id": 3,
+      "name": "TypeScript",
+      "cards": 26,
+      "category": "Programming Languages",
+      "rating": 0,
+      "author": "Janusz Kowalski",
+      "description": "Some desc",
+      "thumbnail": "file.jpg"
+    }
+  ]
+}
