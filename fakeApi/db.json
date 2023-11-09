@@ -30,5 +30,25 @@
       "description": "Some desc",
       "thumbnail": "file.jpg"
     }
+  ],
+  "flashcards": [
+    {
+      "id": 1,
+      "question": "Jak za pomocą useEffect zrobić componentWillUnmount?",
+      "answer": "Callback w useEffect musi zwrócić inny callback, który się wtedy wykona.",
+      "setId": 1
+    },
+    {
+      "id": 2,
+      "question": "Z jakiego paradygmatu pochodzi closure?",
+      "answer": "Z paradygmatu funkcyjnego, który wywodzi z rachunku lamdba.",
+      "setId": 1
+    },
+    {
+      "id": 3,
+      "question": "Jak w HTML wstawić obrazek responsywny?",
+      "answer": "Znacznik img z atrybutem srcset lub znacznik picture.",
+      "setId": 2
+    }
   ]
 }
